@@ -4,20 +4,19 @@ aprendendo a consumira api com js puro
 #passo a passo para consumir a api
 
 criar uma api
-- [] iniciar o projeto `npm init -y`
-- [] instalar as dependências `npm i express nodemon cors axios`
-- [] criar uma rota para acessar a API
-- [] servir a API
-- [] habilitar o CORS
-- [] habilitar o nodemon
-- [] habilitar o nodemon para reiniciar o server
+- [x] iniciar o projeto `npm init -y`
+- [x] instalar as dependências `npm i express nodemon cors axios`
+- [x] criar uma rota para acessar a API
+- [x] servir a API
+- [x] habilitar o CORS
+- [x] habilitar o nodemon
 
 ##frontend
 consumir API
 
-- [] Utilizar fetch para consumir API backend
-- [] promise - async/await
-- [] try/catch
+- [x] Utilizar fetch para consumir API backend
+- [x] promise - async/await
+- [x] try/catch
 - [] exibir resposta
 
 ##backend
